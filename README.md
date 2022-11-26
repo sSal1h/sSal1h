@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
-My name is Hüsnü Salih KÜÇÜK
+Hi there 👋 My name is Hüsnü Salih KÜÇÜK
 ==================================
 
 Jr. Android Developer
