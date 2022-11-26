@@ -24,6 +24,7 @@ I'm Salih, I graduated from Sakarya University of Applied Sciences, Department o
 
 * 🌍  I'm based in Kocaeli, Turkiye
 * ✉️  You can contact me at [husnusalihkucuk@gmail.com](mailto:husnusalihkucuk@gmail.com)
+* 🧠  I'm learning Mobile Programming
 
 ### Skills
 
