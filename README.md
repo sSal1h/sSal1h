@@ -20,7 +20,7 @@ Hi there 👋 My name is Hüsnü Salih KÜÇÜK
 Jr. Android Developer
 ---------------------
 
-I'm Salih, I graduated from Sakarya University of Applied Sciences, Department of Computer Programming. In high school, I studied IT - Database Programing. I have knowledge in C#, JAVA, SQL, HTML and CSS. I try to work myself in the field of mobile programming at every opportunity. That's why I do small projects on my own.
+Hello, my name is Salih. I am a graduate of Sakarya Applied Sciences University in Computer Programming. In high school, I studied Information Technologies - Database Programming. I have knowledge in C#, JAVA, SQL, HTML, and CSS. I try to develop myself in mobile programming whenever I can. In this regard, I do small personal projects.
 
 * 🌍  I'm based in Kocaeli, Turkiye
 * ✉️  You can contact me at [husnusalihkucuk@gmail.com](mailto:husnusalihkucuk@gmail.com)
