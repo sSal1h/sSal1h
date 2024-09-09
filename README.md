@@ -22,7 +22,7 @@ Jr. Android Developer
 
 Hello, my name is Salih. I am a graduate of Sakarya Applied Sciences University in Computer Programming. In high school, I studied Information Technologies - Database Programming. I have knowledge in C#, JAVA, KOTLIN, SQL, HTML, and CSS. I try to develop myself in mobile programming whenever I can. In this regard, I do small personal projects.
 
-* 🌍  I'm based in Kocaeli, Turkiye
+* 🌍  I'm living in Kocaeli, Turkiye
 * ✉️  You can contact me at [husnusalihkucuk@gmail.com](mailto:husnusalihkucuk@gmail.com)
 * 🧠  I'm learning Mobile Programming
 
